@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="blog.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="blog.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="39" selection-start="551" selection-end="551" vertical-scroll-proportion="0.71570575" vertical-offset="0" max-vertical-offset="503">
+            <state line="34" column="0" selection-start="951" selection-end="951" vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="810">
               <folding>
                 <element signature="e#24#117#0" expanded="true" />
               </folding>
@@ -37,7 +37,7 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="104" selection-end="104" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
+            <state line="4" column="14" selection-start="144" selection-end="144" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -46,16 +46,16 @@
       <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="14" selection-start="198" selection-end="200" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
+            <state line="9" column="14" selection-start="449" selection-end="449" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="22" selection-start="160" selection-end="160" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="11" column="66" selection-start="321" selection-end="321" vertical-scroll-proportion="0.34446764" vertical-offset="0" max-vertical-offset="479">
               <folding />
             </state>
           </provider>
@@ -71,9 +71,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/templates/template.html" />
-        <option value="$PROJECT_DIR$/templates/main.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/main.html" />
+        <option value="$PROJECT_DIR$/templates/template.html" />
         <option value="$PROJECT_DIR$/blog.py" />
       </list>
     </option>
@@ -356,33 +356,33 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/template.html">
+    <entry file="file://$PROJECT_DIR$/blog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="160" selection-end="160" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
+        <state line="34" column="0" selection-start="951" selection-end="951" vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="810">
+          <folding>
+            <element signature="e#24#117#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="104" selection-end="104" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
+        <state line="4" column="14" selection-start="144" selection-end="144" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="14" selection-start="198" selection-end="200" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
+        <state line="9" column="14" selection-start="449" selection-end="449" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.py">
+    <entry file="file://$PROJECT_DIR$/templates/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="39" selection-start="551" selection-end="551" vertical-scroll-proportion="0.71570575" vertical-offset="0" max-vertical-offset="503">
-          <folding>
-            <element signature="e#24#117#0" expanded="true" />
-          </folding>
+        <state line="11" column="66" selection-start="321" selection-end="321" vertical-scroll-proportion="0.34446764" vertical-offset="0" max-vertical-offset="479">
+          <folding />
         </state>
       </provider>
     </entry>
